@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+#motivation_website {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+
+}
+#motivation_website img{
+    width: 100%;
+    border: 5px solid rgb(67, 3, 41);
+    
+}
+#motivation_website h1{
+    font-family: "Pacifico", cursive;
+}
+
+  
